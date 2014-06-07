@@ -9,16 +9,16 @@ zh-TW:
         topics_count: "話題數"
       comment:
         commentable: "評論對象"
-        created_at: "創建於"
+        created_at: "建立於"
         user: "用戶"
       topic:
         comments_count: "評論數"
-        created_at: "創建於"
+        created_at: "建立於"
         user: "用戶"
       user:
         avatar: "頭像"
         bio: "簡介"
-        created_at: "創建於"
+        created_at: "建立於"
         email: Email
         locale: "語言"
         name: "全名"
@@ -40,11 +40,11 @@ zh-TW:
         delete_confirm: "你確定要刪除此附件嗎？"
     categories:
       flashes:
-        successfully_created: "成功創建分類"
+        successfully_created: "成功建立分類"
         successfully_destroy: "成功徹底刪除分類"
         successfully_updated: "成功更新分類"
       form:
-        create_category: "創建分類"
+        create_category: "建立分類"
         permanently_delete: "徹底刪除"
         permanently_delete_confirm: "你確定要徹底刪除此分類嗎？"
         save_changes: "保存修改"
@@ -245,13 +245,13 @@ zh-TW:
       edit_topic: "編輯話題"
     form:
       cancel: "取消"
-      create_topic: "創建話題"
+      create_topic: "建立話題"
       no_category: "不分類"
       save_changes: "保存修改"
       title: "標題"
     index:
       all_categories: "所有分類"
-      create_topic: "創建話題"
+      create_topic: "建立話題"
       hot: "熱門"
       hot_topics: "熱門話題"
       newest: "最新"
@@ -318,7 +318,7 @@ zh-TW:
         no_comment_yet: "還沒有評論"
     new:
       choose_a_password: "選一個密碼"
-      create_account: "創建帳號"
+      create_account: "建立帳號"
       pick_a_username: "挑一個用戶名"
       sign_up: "註冊"
       your_email: "你的郵箱地址"
